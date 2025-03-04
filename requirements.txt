@@ -1,0 +1,6 @@
+jupyterlab
+Flask
+requests
+fastapi
+uvicorn
+BeautifulSoup4
